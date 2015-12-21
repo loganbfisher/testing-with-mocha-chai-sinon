@@ -1,3 +1,5 @@
+# Testing with Mocha, Chai, and Sinon
+
 We are using Mocha to run tests, Chai to spy on functions, and Sinon to stub 3rd party functionality at work.  Below are links to each one of the projects.  Please read into their functionality and why or how you would use them before continuing forward.
 
 ### Mocha: 
